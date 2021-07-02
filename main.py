@@ -81,7 +81,7 @@ async def joinvc(_, message):
         except ChatAdminRequired:
             del db[chat_id]["call"]
             return await message.reply_text(
-                "Make me admin with message delete and vc manage permission"
+                "Jadikan Aku admin dlu Anjay-_-"
             )
     await message.reply_text("__**Joined The Voice Chat.**__")
 
