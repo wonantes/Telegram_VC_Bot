@@ -21,6 +21,7 @@ if HEROKU:
 if not HEROKU:
     API_ID = 14371
     API_HASH = "e46b6c854d2bf58a0"
+    SESSION_STRING = BQBYvLLTZutmbXMpVlyz4NqPBwhwKvyBDcUn20u-6zXcNxi0A1DcM9_LhvGGqZYoipzIwJAwML2Z-WxLISzMrw1rtfmBv7bwPZRQu0KxWs0NAnmddJeXKTuQs12xB3n4XBSKOh0K4NUlxoYmZz94_0GeH3qZTh-_zzy7gybUrHawNq8Xdi_6fhhn9U8m9v-WwBo0GpfpKnIQcK6LPYkYkV3Q0gH10ATHOYIX6FZ5MCJ9-GU5v4ImXvWIVUMMI2AHf4SFyy0YyvDoEtAl-hhN549qFRKP2LF7djPqZhH3FUJMTounBwc6e4lWoq0lEOLQI4qc2CEzKq-WNrsw_42YOKIwSPyBqwA
     ARQ_API_KEY = "Get this from @ARQRobot"
     DEFAULT_SERVICE = "youtube"  # Must be one of "youtube"/"deezer"/"saavn"
 
