@@ -133,7 +133,7 @@ async def pause_song_func(_, message):
     vc = db[chat_id]["call"]
     vc.pause_playout()
     await message.reply_text(
-        "**Paused The Music, Send `/resume` To Resume.**", quote=False
+        "**Musik Dihentikan, Kirim `/resume` Untuk melanjutkan.**", quote=False
     )
 
 
